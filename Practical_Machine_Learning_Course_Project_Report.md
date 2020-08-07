@@ -2,8 +2,9 @@
 title: "Practical Machine Learning Course Project"
 author: "Carlos Schuler"
 output: 
-  html_document:
+  html_document: 
     keep_md: yes
+    self_contained: no
 ---
 
 
